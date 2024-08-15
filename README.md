@@ -20,7 +20,7 @@ git clone https://github.com/Kanha-Dev/Flash-Chat-iOS13.git
 ```
 
 ### Open in Xcode:
-Open the `FlashChat.xcodeproj` file in Xcode.
+Open the `Flash Chat iOS13.xcworkspace` file in Xcode.
 
 ### Install Dependencies:
 Ensure that you have the latest version of Xcode and Swift installed.
