@@ -16,7 +16,7 @@ To install and run FlashChat on your local machine, follow these steps:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/flashchat.git
+git clone https://github.com/Kanha-Dev/Flash-Chat-iOS13.git
 ```
 
 ### Open in Xcode:
@@ -80,10 +80,10 @@ FlashChat utilizes the following external libraries to enhance functionality:
 ### Dark Mode
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-    <img src="Screenshots/1.png" alt="Home Page (Dark Mode)" title="Home Page (Dark Mode)" style="width: 48%;"/>
-    <img src="Screenshots/2.png" alt="Login Page (Dark Mode)" title="Login Page (Dark Mode)" style="width: 48%;"/>
-    <img src="Screenshots/3.png" alt="Register Page (Dark Mode)" title="Register Page (Dark Mode)" style="width: 48%;"/>
-    <img src="Screenshots/4.png" alt="Chat Page (Dark Mode)" title="Chat Page (Dark Mode)" style="width: 48%;"/>
+    <img src="Screenshots/5.png" alt="Home Page (Dark Mode)" title="Home Page (Dark Mode)" style="width: 48%;"/>
+    <img src="Screenshots/6.png" alt="Login Page (Dark Mode)" title="Login Page (Dark Mode)" style="width: 48%;"/>
+    <img src="Screenshots/7.png" alt="Register Page (Dark Mode)" title="Register Page (Dark Mode)" style="width: 48%;"/>
+    <img src="Screenshots/8.png" alt="Chat Page (Dark Mode)" title="Chat Page (Dark Mode)" style="width: 48%;"/>
 </div>
 
 ## Contributing
@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to Your Name.
+For any inquiries or issues, please contact [kanhagupta.dev@gmail.com](mailto:kanhagupta.dev@gmail.com).
